@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    background-color: black;
+}
+.cart p{
+    height: 22px;
+    width: 22px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 22px;
+}
+.hovr:hover{
+    box-shadow: 10px 10px 20px gray;
+}
+.C1{
+    color:#935A3F ;
+}
+.C2{
+    color:#4A6874 ;
+}
+.C3{
+    color:#702e0f ;
+}
+.R{
+    padding-left: 215px ;
+}
+.CS{
+    margin-top: 57px;
+}
+.fnt1{
+    font-family: 'Raleway', sans-serif;
+}
+.fnt2{
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+@media only screen and (min-width:768px){
+  
+    .R{
+        padding-left: 150px ;
+    }
+
+}
+@media only screen and (min-width:1200px){
+  
+    .R{
+        padding-left: 220px ;
+    }
+
+}
