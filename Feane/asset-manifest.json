@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RohitMa/projects/Feane/static/css/main.25335e5d.css",
+    "main.js": "/RohitMa/projects/Feane/static/js/main.111b2405.js",
+    "static/media/hero-bg.jpg": "/RohitMa/projects/Feane/static/media/hero-bg.a5445751f32472b12de0.jpg",
+    "static/media/img8.png": "/RohitMa/projects/Feane/static/media/img8.cb1943899027d314bef7.png",
+    "static/media/img4.png": "/RohitMa/projects/Feane/static/media/img4.59ed633a26ef3e2fdc16.png",
+    "static/media/img6.png": "/RohitMa/projects/Feane/static/media/img6.8673c34e24b76814b445.png",
+    "static/media/img7.png": "/RohitMa/projects/Feane/static/media/img7.6f8e7562b3d359a0847f.png",
+    "static/media/img12.png": "/RohitMa/projects/Feane/static/media/img12.beac11d1d641108dd82a.png",
+    "static/media/about-img.png": "/RohitMa/projects/Feane/static/media/about-img.1afbf98c813e522fe9d0.png",
+    "static/media/img9.png": "/RohitMa/projects/Feane/static/media/img9.bd2a3a34001902a73c86.png",
+    "static/media/img10.png": "/RohitMa/projects/Feane/static/media/img10.db4e4bd0ce0fa890ed61.png",
+    "static/media/img11.png": "/RohitMa/projects/Feane/static/media/img11.7dbf8a7ccd4bdb1a4e96.png",
+    "static/media/img5.png": "/RohitMa/projects/Feane/static/media/img5.e583cce31b30fb8e72fa.png",
+    "static/media/Pizd.jpg": "/RohitMa/projects/Feane/static/media/Pizd.be4769ea469f0615369f.jpg",
+    "static/media/Tasty.jpg": "/RohitMa/projects/Feane/static/media/Tasty.3e65bd0c867004caeffa.jpg",
+    "static/media/Girl.jpg": "/RohitMa/projects/Feane/static/media/Girl.cb45beeb6dfad0fb4955.jpg",
+    "index.html": "/RohitMa/projects/Feane/index.html",
+    "main.25335e5d.css.map": "/RohitMa/projects/Feane/static/css/main.25335e5d.css.map",
+    "main.111b2405.js.map": "/RohitMa/projects/Feane/static/js/main.111b2405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25335e5d.css",
+    "static/js/main.111b2405.js"
+  ]
+}
