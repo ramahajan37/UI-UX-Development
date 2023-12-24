@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RohitMa/projects/prime%20video/static/css/main.98c356c6.css",
+    "main.js": "/RohitMa/projects/prime%20video/static/js/main.48aceb1c.js",
+    "static/media/HP2.jpg": "/RohitMa/projects/prime%20video/static/media/HP2.dea41a770ed861624d00.jpg",
+    "static/media/HPlogo.png": "/RohitMa/projects/prime%20video/static/media/HPlogo.7487675e0d984945b4bc.png",
+    "static/media/prime-logo.png": "/RohitMa/projects/prime%20video/static/media/prime-logo.72a76d0501fd69cf22e1.png",
+    "static/media/IMDB_Logo.png": "/RohitMa/projects/prime%20video/static/media/IMDB_Logo.39ec2f8aad08ab8991e2.png",
+    "index.html": "/RohitMa/projects/prime%20video/index.html",
+    "main.98c356c6.css.map": "/RohitMa/projects/prime%20video/static/css/main.98c356c6.css.map",
+    "main.48aceb1c.js.map": "/RohitMa/projects/prime%20video/static/js/main.48aceb1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c356c6.css",
+    "static/js/main.48aceb1c.js"
+  ]
+}
