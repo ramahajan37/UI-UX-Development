@@ -1,0 +1,131 @@
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+.navbar {
+    color: white;
+    position: fixed;
+    padding: 20px 0;
+    right: 0;
+    left: 0;
+    background-color: transparent;
+}
+
+.BgColour {
+    color: black;
+    transition: all 1s;
+    background-color: #136050;
+    opacity: 75%;
+    /* background-color: transparent; */
+}
+
+#hero{
+    background-image: url(../Images/illustration/bg_20_11zon.jpg);
+}
+.B1{
+    background-color: #FF8A00;
+}
+.L{
+    color: white;
+}
+.L:hover{
+    color:  #FF8A00;
+}
+.I{
+    color: #FF8A00;
+}
+
+.CH:hover{
+   background-color: #f1cfa2;
+   color: white;
+}
+.CD2:hover{
+    box-shadow: 10px 10px 20px gray;
+}
+#hrn{
+    background-image: url(../Images/illustration/bg4_22_11zon.jpg);
+}
+.R{
+    color: #2C6C5E;
+}
+.M{
+    background-color: #F6FBF8;
+}
+.Z{
+    background-color: #D2E7E2;
+}
+.s{
+    width: 61px;
+    height: 40px;
+    position: fixed;
+    top:500px;
+    right: 125px;
+    padding-top: 17px;
+    text-align: center;   
+}
+
+@media only screen and (min-width:768px){
+    .hrt{
+        margin-left: 500px;
+        animation-name: hrt;
+        animation-duration: 1s;
+        animation-direction: reverse;
+        animation-iteration-count: infinite;
+    }
+    @keyframes hrt{
+    
+            from{
+                transform: translateY(-10px);
+            }
+            to{
+                transform: translateY(-50px);
+            }
+    
+    
+    }   
+    .s{
+        width: 61px;
+        height: 40px;
+        position: fixed;
+        top:470px;
+        right: 60px;
+        padding-top: 17px;
+        text-align: center;   
+    }
+
+}
+@media only screen and (min-width:1200px){
+    .hrt{
+        margin-left: 1000px;
+        animation-name: hrt;
+        animation-duration: 1s;
+        animation-direction: reverse;
+        animation-iteration-count: infinite;
+    }
+    @keyframes hrt{
+    
+            from{
+                transform: translateY(-180px);
+            }
+            to{
+                transform: translateY(-150px);
+            }
+    
+    
+    } 
+    .s{
+        width: 61px;
+        height: 40px;
+        position: fixed;
+        top:550px;
+        right: 60px;
+        padding-top: 17px;
+        text-align: center;   
+    }
+
+}
