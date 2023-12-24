@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.carousel-item{
+    position: relative;
+
+}
+.carousel-item:after{
+    content:"";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient( to top,rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+    /* z-index: 9; */
+    z-index: 10;
+}
+.carousel-caption{
+    position: absolute;
+    z-index: 11;
+}
+.CH{
+    margin-right: 150px;
+}
+#back{
+    background: linear-gradient(rgba(27, 28, 119, 0.5),rgba(0,0,0,0.6)),url(../Images/illustration/mal.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px; 
+}
+.R{
+    padding-top: 180px;
+    padding-bottom: 450px;
+}
+#para{
+    background-image: url(../Images/illustration/map1_73_11zon.png);
+}
+#para2{
+    background-image: url(../Images/illustration/map2_74_11zon.png);
+}
+.M{
+    z-index: 1;
+    position: relative;
+}
+.C{
+    height: 100px;
+    width: 250px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: -50px;
+    z-index: 3;
+    position: relative;
+}
+.f{
+    margin-top: 220px;
+}
+.A{
+    font-family: 'Londrina Shadow', cursive;
+}
+.ft{
+    background-color: #0F2454;
+}
+.G{
+    color: #24438b;
+}
+.s{
+    width: 61px;
+    height: 40px;
+    position: fixed;
+    top:500px;
+    right: 125px;
+    padding-top: 17px;
+    text-align: center;   
+}
+/* .R1{
+    height: 500px !important;   
+} */
+.f1{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.f2{
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+@media only screen and (min-width:768px){
+   
+    .CH{
+        margin-right: 240px;
+    } 
+    .s{
+        width: 61px;
+        height: 40px;
+        position: fixed;
+        top:470px;
+        right: 60px;
+        padding-top: 17px;
+        text-align: center;   
+    }
+    .C{
+        font-size: small;
+        height: 100px;
+        width: 180px;
+        background-color: white;
+        margin-left: 30px;
+        margin-top: -50px;
+        z-index: 3;
+        position: relative;
+    }
+    #back{
+        background: linear-gradient(rgba(27, 28, 119, 0.5),rgba(0,0,0,0.6)),url(../Images/illustration/mal.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        height: 400px; 
+    }
+    .R{
+        padding-top: 180px;
+        padding-bottom: 280px;
+    }
+    .P{
+        margin-bottom: 60px;
+    }
+
+}
+@media only screen and (min-width:1200px){
+   
+    .CH{
+        margin-right: 440px;
+    } 
+    .s{
+        width: 61px;
+        height: 40px;
+        position: fixed;
+        top:550px;
+        right: 60px;
+        padding-top: 17px;
+        text-align: center;   
+    }
+    #back{
+        background: linear-gradient(rgba(27, 28, 119, 0.5),rgba(0,0,0,0.6)),url(../Images/illustration/mal.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        height: 400px; 
+    }
+    .P{
+        margin-bottom: 110px;
+    }
+
+}
+
